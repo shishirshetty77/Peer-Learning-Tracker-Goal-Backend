@@ -82,8 +82,8 @@ Use this token in tools like **Thunder Client** or **Postman** to test secured e
 
 ```bash
 cd server
-npm install
-npm run dev
+node index.js
+
 ```
 
 The server will run at `http://localhost:8080`
